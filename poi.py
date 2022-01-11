@@ -30,7 +30,7 @@ time = 'time'
 base_font = pygame.font.Font(None, 30)
 touch = 0
 username = argv[1]
-# c = 0
+c = 0
 
 
 def Score():
